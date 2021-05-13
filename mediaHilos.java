@@ -11,6 +11,6 @@ public class mediaHilos extends Thread{
    }//sumaHilos
    
    public void run(){
-      System.out.println("Hilo #3 .- Suma = " + mediaVector / cont);
+      System.out.println("Hilo #3 .- Media = " + mediaVector / cont);
    }
 }//mediaHilos
